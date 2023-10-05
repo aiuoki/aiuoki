@@ -10,4 +10,4 @@ I'm aiuoki, a 19 year old technical enthusiast who does web development. Passion
 
 ✨ Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiuoki" alt="SulthanNK" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiuoki" alt="aiuoki" /> </p>
