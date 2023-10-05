@@ -1,5 +1,5 @@
 ### Hi there I'm [aiuoki!](https://github.com/aiuoki/)👋
-I'm Daniel Ceban, a 19 year old technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.<br>
+I'm aiuoki, a 19 year old technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aiuoki)
 
