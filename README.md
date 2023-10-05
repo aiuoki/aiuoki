@@ -8,6 +8,6 @@ I'm Daniel Ceban, a 19-year old technical enthusiast who does web development, s
 
 ![aiuoki's github stats](https://github-readme-stats.vercel.app/api?username=aiuoki&show_icons=true&theme=dark)
 
-⭐️ ✨ Visitors 
+✨ Visitors 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiuoki" alt="SulthanNK" /> </p>
